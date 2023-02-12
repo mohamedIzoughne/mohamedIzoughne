@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### my name is Mohamed izourne from Morocco
+#### My name is Mohamed izourne from Morocco
 
 - 🔭 I’m currently in high shool and I'm studying frontend development.
 - 🌱 I learned Html, Css and Javascript in addition to bootstrap and my intention is to start studying React.js.
