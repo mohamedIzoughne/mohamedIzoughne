@@ -1,3 +1,4 @@
+<img src="giphy.gif" width="100%"></img>
 <h1 align="center">Hi 👋, I'm Mohamed Izourne</h1>
 <h3 align="center">A passionate frontend developer from Morocco
 <img align="right" alt="coding" width=400 src="img.svg"></img>
