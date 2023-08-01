@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/izourne_mohamed" target="blank"><img src="https://img.shields.io/twitter/follow/izourne_mohamed?logo=twitter&style=for-the-badge" alt="izourne_mohamed" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node and Express**
 
-- 💬 Ask me about **Css, Javascript**
+- 💬 Ask me about **Css, Javascript, React**
 
 - 📫 How to reach me **izourne003@gmail.com**
 
